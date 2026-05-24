@@ -116,10 +116,11 @@ Please use the GitHub issue templates:
 
 ## 🗒️ Personal Notes
 
-Forked for personal learning and CTF practice. I mainly use the Information Gathering and Hash Cracking sections. Tested on Ubuntu 22.04 in addition to Kali Linux.
+Forked for personal learning and CTF practice. I mainly use the Information Gathering and Hash Cracking sections.
 
----
+**Tools I find most useful for CTFs:**
+- Information Gathering → great starting point for recon challenges
+- Hash Cracking → handy for crypto/forensics flags
+- Steganography Tools → surprisingly useful more often than expected
 
-## 📜 License
-
-This project is licensed under the GNU General Public License v3.0 — see the [LICENSE](LICENSE) file for details.
+> Note to self: remember to run `git pull upstream main` periodically to stay in sync with Z4nzu's upstream changes.
