@@ -116,11 +116,6 @@ Please use the GitHub issue templates:
 
 ## 🗒️ Personal Notes
 
-Forked for personal learning and CTF practice. I mainly use the Information Gathering and Hash Cracking sections.
+Forked for personal learning and CTF practice. I mainly use the Information Gathering and Hash Cracking sections. Tested on Ubuntu 22.04 and Kali Linux 2024.1 — both work fine after running `install.sh`.
 
-**Tools I find most useful for CTFs:**
-- Information Gathering → great starting point for recon challenges
-- Hash Cracking → handy for crypto/forensics flags
-- Steganography Tools → surprisingly useful more often than expected
-
-> Note to self: remember to run `git pull upstream main` periodically to stay in sync with Z4nzu's upstream changes.
+> **Tip:** If `install.sh` fails on Ubuntu due to missing `apt` packages, try running `sudo apt update` first before re-running the script.
