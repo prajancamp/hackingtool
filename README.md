@@ -116,6 +116,10 @@ Please use the GitHub issue templates:
 
 ## 🗒️ Personal Notes
 
-Forked for personal learning and CTF practice. I mainly use the Information Gathering and Hash Cracking sections. Tested on Ubuntu 22.04 and Kali Linux 2024.1 — both work fine after running `install.sh`.
+Forked for personal learning and CTF practice. I mainly use the Information Gathering and Hash Cracking sections. The Steganography tools have also been handy for a few CTF challenges.
 
-> **Tip:** If `install.sh` fails on Ubuntu due to missing `apt` packages, try running `sudo apt update` first before re-running the script.
+**Tools I find most useful for CTFs:**
+- Information Gathering (recon phase)
+- Hash Cracking Tools
+- Steganography Tools
+- Forensic Tools
