@@ -116,10 +116,9 @@ Please use the GitHub issue templates:
 
 ## 🗒️ Personal Notes
 
-Forked for personal learning and CTF practice. I mainly use the Information Gathering and Hash Cracking sections. The Wordlist Generator has also been handy for some challenges.
+Forked for personal learning and CTF practice. I mainly use the Information Gathering and Hash Cracking sections. The Wordlist Generator has also been handy for CTF challenges.
 
 **Tools I find most useful for CTFs:**
-- Information Gathering (recon phase)
-- Hash cracking Tools (crypto challenges)
-- Steganography Tools (stego challenges)
-- Forensic Tools (forensics category)
+- Information Gathering → great starting point for recon challenges
+- Hash Cracking → covers most common hash types encountered in CTFs
+- Steganography Tools → surprisingly often needed
