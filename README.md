@@ -114,13 +114,12 @@ Please use the GitHub issue templates:
 
 ---
 
-## 📜 License
+## 🗒️ Personal Notes
 
-This project is licensed under the GNU General Public License v3.0 — see the [LICENSE](LICENSE) file for details.
+Forked for personal learning and CTF practice. I mainly use the Information Gathering and Hash Cracking sections. Tested on Ubuntu 22.04 in addition to Kali Linux.
 
 ---
 
-## ⭐ Acknowledgements
+## 📜 License
 
-- Original project by [Z4nzu](https://github.com/Z4nzu)
-- All tool authors and contributors
+This project is licensed under the GNU General Public License v3.0 — see the [LICENSE](LICENSE) file for details.
